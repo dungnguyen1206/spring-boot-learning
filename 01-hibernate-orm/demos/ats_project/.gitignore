@@ -1,0 +1,21 @@
+# IntelliJ
+.idea/
+**/.idea/
+*.iml
+
+# Maven build output
+target/
+**/target/
+
+# Compiled files
+*.class
+*.jar
+*.war
+
+# Environment / logs
+.env
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
